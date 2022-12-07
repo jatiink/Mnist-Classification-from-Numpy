@@ -1,5 +1,8 @@
 # Mnist-Classification-from-Numpy
 Neural Network from Scratch(only Numpy) 
+NO PYTORCH NO TENSORFLOW ONLY NumPy
+
+
 Libraries used(Dependencies):
 numpy
 matplotlib
